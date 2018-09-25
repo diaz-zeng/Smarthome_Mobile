@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AndroidDesignerPreferredDevice>7in WSVGA %28Tablet%29</AndroidDesignerPreferredDevice>
+    <AndroidDesignerPreferredTheme>Theme.DeviceDefault.NoActionBar</AndroidDesignerPreferredTheme>
+    <SelectedDevice>HTC One</SelectedDevice>
+    <DefaultDevice>7" KitKat %284.4%29 XHDPI Tablet</DefaultDevice>
+  </PropertyGroup>
+</Project>

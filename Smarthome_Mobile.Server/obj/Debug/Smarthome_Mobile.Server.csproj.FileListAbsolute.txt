@@ -1,0 +1,41 @@
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\Smarthome_Mobile.Server.exe.config
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\Smarthome_Mobile.Server.exe
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\Smarthome_Mobile.Server.pdb
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\BIControlManager.dll
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\BIData.dll
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\BIProtocols.dll
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\Smarthome_Mobile.Library.dll
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\Smarthome_Mobile.Library.pdb
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\obj\Debug\Smarthome_Mobile.Server.csprojResolveAssemblyReference.cache
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\obj\Debug\Smarthome_Mobile.Server.Form1.resources
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\obj\Debug\Smarthome_Mobile.Properties.Resources.resources
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\obj\Debug\Smarthome_Mobile.Server.csproj.GenerateResource.Cache
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\obj\Debug\Smarthome_Mobile.Server.exe
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\obj\Debug\Smarthome_Mobile.Server.pdb
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\Smarthome_Mobile.Server.exe.manifest
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\Smarthome_Mobile.Server.application
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\obj\Debug\Smarthome_Mobile.Server.exe.manifest
+C:\Users\zly98\Desktop\Smarthome_Mobile\Smarthome_Mobile.Server\obj\Debug\Smarthome_Mobile.Server.application
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\Smarthome_Mobile.Server.exe.config
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\Smarthome_Mobile.Server.exe.manifest
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\Smarthome_Mobile.Server.application
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\Smarthome_Mobile.Server.exe
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\Smarthome_Mobile.Server.pdb
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\BIControlManager.dll
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\BIData.dll
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\BIProtocols.dll
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\Smarthome_Mobile.Library.dll
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\Smarthome_Mobile.Library.pdb
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\obj\Debug\Smarthome_Mobile.Server.csprojResolveAssemblyReference.cache
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\obj\Debug\Smarthome_Mobile.Server.Form1.resources
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\obj\Debug\Smarthome_Mobile.Properties.Resources.resources
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\obj\Debug\Smarthome_Mobile.Server.csproj.GenerateResource.Cache
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\obj\Debug\Smarthome_Mobile.Server.TrustInfo.xml
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\obj\Debug\Smarthome_Mobile.Server.exe.manifest
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\obj\Debug\Smarthome_Mobile.Server.application
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\obj\Debug\Smarthome_Mobile.Server.exe
+C:\Users\zly98\Documents\Visual Studio 2017\Projects\Smarthome_Mobile\Smarthome_Mobile.Server\obj\Debug\Smarthome_Mobile.Server.pdb

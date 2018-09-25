@@ -1,0 +1,8 @@
+Smarthome_Mobile.Client.Phone.DashboardActivity, Smarthome_Mobile.Client.Phone;md5c944880a0a042afe1cad27f0d12cb6f6.DashboardActivity
+Smarthome_Mobile.Client.Phone.DashboardActivity, Smarthome_Mobile.Client.Phone, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c944880a0a042afe1cad27f0d12cb6f6.DashboardActivity
+Smarthome_Mobile.Client.Phone.DashboardActivity;md5c944880a0a042afe1cad27f0d12cb6f6.DashboardActivity
+smarthome_mobile.client.phone.DashboardActivity;md5c944880a0a042afe1cad27f0d12cb6f6.DashboardActivity
+Smarthome_Mobile.Client.Phone.MainActivity, Smarthome_Mobile.Client.Phone;md5c944880a0a042afe1cad27f0d12cb6f6.MainActivity
+Smarthome_Mobile.Client.Phone.MainActivity, Smarthome_Mobile.Client.Phone, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c944880a0a042afe1cad27f0d12cb6f6.MainActivity
+Smarthome_Mobile.Client.Phone.MainActivity;md5c944880a0a042afe1cad27f0d12cb6f6.MainActivity
+smarthome_mobile.client.phone.MainActivity;md5c944880a0a042afe1cad27f0d12cb6f6.MainActivity

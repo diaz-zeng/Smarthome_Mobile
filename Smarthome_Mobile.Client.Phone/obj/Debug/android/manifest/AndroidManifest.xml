@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Smarthome_Mobile.Client.Phone.Smarthome_Mobile.Client.Phone" android:versionCode="1" android:versionName="Alphe" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <application android:label="Smarthome_Mobile.Client.Phone" android:icon="@drawable/i1" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:icon="@drawable/i1" android:label="仪表板" android:name="md5c944880a0a042afe1cad27f0d12cb6f6.DashboardActivity" />
+    <activity android:icon="@drawable/i1" android:label="欢迎" android:name="md5c944880a0a042afe1cad27f0d12cb6f6.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Smarthome_Mobile.Client.Phone.Smarthome_Mobile.Client.Phone.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.Smarthome_Mobile.Client.Phone.Smarthome_Mobile.Client.Phone" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>
